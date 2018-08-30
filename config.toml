@@ -106,7 +106,7 @@ paginate = 10
     logo = "img/logo.png"
     # logo_small = "img/logo-small.png"
     logo_small = "img/logo.png"
-    address = """<p><strong>Telelian Ltd.</strong>
+    address = """<p><strong>Telelian</strong>
         <br>B102, IT College, Gacheon University
         <br>1342 Seongnam-daero, Sujeong-gu
         <br>Seongnam-si, Gyeonggi-do
